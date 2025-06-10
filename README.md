@@ -2,6 +2,8 @@
 
 ---
 
+Passionate about uncovering the hidden layers of the blockchain world and making Web3 safer for everyone.
+
 I'm the co-founder of [Blockchains Experts](https://www.blockchainsexperts.io/), a company specialized in blockchain intelligence and blockchain cybersecurity.
 
 💡​ I'm passionate about:
@@ -13,9 +15,17 @@ I'm the co-founder of [Blockchains Experts](https://www.blockchainsexperts.io/),
 
 ---
 
+### Current Focus
+
+- **Advanced BlockINT investigations**
+- **In-depth research**
+- **Building Crypto Threat tools**
+
+---
+
 On this GitHub, you'll find some of my open-source contributions, tools, and research related to these domains.
 
 💬 Feel free to connect!
 
 
-> *Securing the Future of Web3.*
+> *Tracking threats. Protecting users. Empowering Web3.*
