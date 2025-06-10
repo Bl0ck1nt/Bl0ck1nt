@@ -1,16 +1,19 @@
-## Hi there 👋
+## Welcome to my GitHub 👋
 
-<!--
-**Bl0ck1nt/Bl0ck1nt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+I'm the **co-founder of Blockchains Experts**, a company specialized in blockchain intelligence and blockchain cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡​ I'm passionate about:
+- **OSINT (Open Source Intelligence)**  
+- **Blockchain Intelligence (BlockINT)**  
+- **Crypto Threat Analysis**  
+- **Privacy & Decentralization**
+
+---
+
+On this GitHub, you'll find some of my open-source contributions, tools, and research related to these domains.
+
+💬 Feel free to connect!
+
+> *Securing the Future of Web3.*
