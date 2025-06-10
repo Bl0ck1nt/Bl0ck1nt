@@ -2,7 +2,7 @@
 
 ---
 
-I'm the co-founder of **Blockchains Experts**, a company specialized in blockchain intelligence and blockchain cybersecurity.
+I'm the co-founder of [Blockchains Experts](https://www.blockchainsexperts.io/), a company specialized in blockchain intelligence and blockchain cybersecurity.
 
 💡​ I'm passionate about:
 - **OSINT (Open Source Intelligence)**  
