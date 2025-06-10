@@ -15,7 +15,7 @@ I'm the co-founder of [Blockchains Experts](https://www.blockchainsexperts.io/),
 
 ---
 
-### Current Focus
+☝️​ Current Focus:
 
 - **Advanced BlockINT investigations**
 - **In-depth research**
